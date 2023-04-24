@@ -44,14 +44,22 @@
 
 
 // cha 6 
-let num = 10 
+// let num = 10 
 
-if (num % 3){
-    console.log("fizz")
-}
-else if (num % 5){
-    console.log("buzz")
-}
-else if ( num % 3 && 5 ){
-    console.log("fizz buzz")
-}
+// if (num % 3){
+//     console.log("fizz")
+// }
+// else if (num % 5){
+//     console.log("buzz")
+// }
+// else if ( num % 3 && 5 ){
+//     console.log("fizz buzz")
+// }
+
+
+// cha 7
+// let norNum = 8
+// let ranNum = Math.ceil(Math.random()*10)
+// while (ranNum != norNum){
+//     console.log(`not the same ${ranNum}`)
+// }
