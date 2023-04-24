@@ -58,8 +58,9 @@
 
 
 // cha 7
-// let norNum = 8
-// let ranNum = Math.ceil(Math.random()*10)
-// while (ranNum != norNum){
-//     console.log(`not the same ${ranNum}`)
-// }
+let norNum = 10
+let ranNum =  1
+while (ranNum != norNum){
+    console.log(`not the same ${ranNum}`)
+    ranNum =Math.ceil(Math.random()*10)
+}
